@@ -18,6 +18,14 @@ Además, se implementó un diseño responsivo para una correcta visualización e
 
 ---
 
+## 🚀 Vercel Deploy
+
+El proyecto fue desplegado en Vercel:
+
+> https://landing-page-topicos-u3.vercel.app/
+
+---
+
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
@@ -25,6 +33,7 @@ Además, se implementó un diseño responsivo para una correcta visualización e
 - Flexbox
 - CSS Grid
 - Responsive Design
+- Vercel (Deploy)
 
 ---
 
